@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Ash
 
-Computer Engineering grad who likes building things that interest me, whether it’s the stock market, deep space, or music.
+Computer Engineering grad who likes building things that interest me, whether it’s about the stock market, deep space, or music.
 
 Sometimes they work, sometimes they don’t. But I always learn something.
 
