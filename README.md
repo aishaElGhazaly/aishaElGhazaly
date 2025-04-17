@@ -12,6 +12,7 @@ Sometimes they work, sometimes they don’t. But I always learn something.
 - ☁️ Cloud (learning + AWS certified!)
 
 Projects happen when I get curious enough. A web app, an ML workflow, or a desktop app.  
+
 **Form doesn’t matter. Exploration does.**
 
 
