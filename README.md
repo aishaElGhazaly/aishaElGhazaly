@@ -33,7 +33,9 @@ Projects happen when I get curious enough. A web app, an ML workflow, or a deskt
 ## ⚙️ I Code With
 
 **Languages:** Python (main), C/C++ (for Leetcode), Java (a bit rusty), SQL (when needed)  
+
 **Libraries:** AutoGluon, Pandas, NumPy, Matplotlib, Scikit-learn  
+
 **Tools:** VS Code, Jupyter Notebooks, Git (still learning it properly)
 
 
