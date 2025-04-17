@@ -4,7 +4,6 @@ Computer Engineering grad who likes building things that interest me, whether it
 
 Sometimes they work, sometimes they don’t. But I always learn something.
 
----
 
 ## 💻 What I Like Working On
 
@@ -15,7 +14,6 @@ Sometimes they work, sometimes they don’t. But I always learn something.
 Projects happen when I get curious enough. A web app, an ML workflow, or a desktop app.  
 **Form doesn’t matter. Exploration does.**
 
----
 
 ## 🧪 Projects
 
@@ -30,7 +28,6 @@ Includes object search, previews, FITS file retrievals, composite creation, and 
 Built with **PyQt5** and **AstroPy**, powered by **SDSS** data.  
 Taught me a lot about turning raw data into useful, user-friendly tools.
 
----
 
 ## ⚙️ I Code With
 
@@ -38,7 +35,6 @@ Taught me a lot about turning raw data into useful, user-friendly tools.
 **Libraries:** AutoGluon, Pandas, NumPy, Matplotlib, Scikit-learn  
 **Tools:** VS Code, Jupyter Notebooks, Git (still learning it properly)
 
----
 
 ## 🚀 Next Up
 
