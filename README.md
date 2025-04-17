@@ -23,7 +23,7 @@ Projects happen when I get curious enough. A web app, an ML workflow, or a deskt
 - Pulled data from **AlphaVantage** and **yfinance**, and used **AutoGluon** for feature selection and model optimization.  
 - Learned a lot about machine learning and financial markets.
 
-### 🌌 AstroVision  
+### 🌌 [AstroVision](https://github.com/aishaElGhazaly/AstroVision)  
 - A desktop app that makes **astronomical data** easy to explore for amateur astronomers.  
 - Includes object search, previews, FITS file retrievals, composite creation, and spectrogram inspection.  
 - Built with **PyQt5** and **AstroPy**, powered by **SDSS** data.  
