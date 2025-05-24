@@ -18,7 +18,7 @@ Projects happen when I get curious enough. A web app, an ML workflow, or a deskt
 
 ## 🧪 Projects
 
-### 🎯 Stock Price Prediction  
+### 🎯 [Stock Price Prediction](https://github.com/aishaElGhazaly/Stock-Price-Prediction)  
 - ML pipeline that forecasts S&P 500 company performance using **technical** and **fundamental** analysis.  
 - Pulled data from **AlphaVantage** and **yfinance**, and used **AutoGluon** for feature selection and model optimization.  
 - Learned a lot about machine learning and financial markets.
