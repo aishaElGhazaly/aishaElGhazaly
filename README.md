@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Ash
 
-Computer Engineering grad who likes building things that interest me, whether it’s about the stock market, deep space, or music.
+Computer Engineering grad who likes building things that pique my interest, whether it’s about the stock market, deep space, or music.
 
 Sometimes they work, sometimes they don’t. But I always learn something.
 
@@ -37,11 +37,3 @@ Projects happen when I get curious enough. A web app, an ML workflow, or a deskt
 **Libraries:** AutoGluon, Pandas, NumPy, Matplotlib, Scikit-learn  
 
 **Tools:** VS Code, Jupyter Notebooks, Git (still learning it properly)
-
-
-## 🚀 Next Up
-
-- Revamping projects  
-- Hosting them on AWS  
-- Getting better at cloud stuff  
-- Making cooler, more complete things
