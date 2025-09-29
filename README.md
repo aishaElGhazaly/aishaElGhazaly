@@ -1,7 +1,7 @@
 # 👋 Hello there! I'm Ash
 
 A Computer Engineering graduate who loves building cool things at the crossroads of AI, cloud, and software engineering.
-Whether it’s training machine learning models, designing scalable cloud solutions, or hacking together full-stack apps, I thrive on experimenting and learning by doing. I'm AWS-certified and passionate about creating real-world AI solutions. Motivated to join innovative teams as a Machine Learning Engineer or Software Engineer.
+Whether it’s building machine learning models, designing scalable cloud solutions, or hacking together full-stack apps, I thrive on experimenting and learning by doing. I'm AWS-certified and passionate about creating real-world AI solutions. Motivated to join innovative teams as a Machine Learning Engineer or Software Engineer.
 
 ---
 
