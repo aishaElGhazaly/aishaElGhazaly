@@ -5,10 +5,12 @@ Whether it’s building machine learning models, designing scalable cloud soluti
 
 ---
 
-## 🌱 What I’m Currently Learning
-- ⚛️ React + Node.js  
-- 📚 Vector Databases & RAG  
-- 🤖 Fine-tuning LLMs  
+## 🌱 What I’m Currently Working Towards
+- 🐦 Deploying Finch on AWS
+- 🐳 Using Docker for packaging and reproducibility  
+- 🚀 Moving projects into production environments
+- ⚙️ Automating workflows with n8n
+- 🤖 Serving and optimizing ML models
 
 ---
 
