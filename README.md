@@ -1,9 +1,6 @@
 # 👋 Hello there! I'm Ash
 
-A Computer Engineering graduate who loves building cool things at the crossroads of AI, cloud, and software engineering.
-Whether it’s building machine learning models, designing scalable cloud solutions, or hacking together full-stack apps, I thrive on experimenting and learning by doing. I'm AWS-certified and committed about creating real-world solutions. Motivated to join innovative teams as a Machine Learning Engineer or Software Engineer.
-
----
+A Computer Engineering graduate who loves building cool things. Whether it’s building machine learning models, designing scalable cloud solutions, or hacking together full-stack apps, I thrive on experimenting and learning by doing.
 
 ## 🌱 What I’m Currently Working Towards
 - 🐦 Deploying Finch on AWS
